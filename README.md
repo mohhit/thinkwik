@@ -1,2 +1,1 @@
-# thinkwik
-test
+# test
